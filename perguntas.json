@@ -1,10 +1,9 @@
 [
-  {
-    "pergunta": "Cachorro ou gato?",
-    "opcoes": [ "🐕", "🐱" ]
-  },
-  {
-    "pergunta": "Computador ou smartphone?",
-    "opcoes": [ "💻", "📱" ]
-  }
+  { "pergunta": "Cachorro ou gato?", "opcoes": [ "🐕", "🐱" ] },
+  { "pergunta": "Computador ou smartphone?", "opcoes": [ "💻", "📱" ] },
+  { "pergunta": "Hamburguer ou Pizza?", "opcoes": [ "🍔", "🍕" ] },
+  { "pergunta": "Frio ou calor?", "opcoes": [ "🥶", "🥵" ] },
+  { "pergunta": "Dia ou noite?", "opcoes": [ "☀️", "🌙" ] },
+  { "pergunta": "Urso ou panda?", "opcoes": [ "🐻", "🐼" ] },
+  { "pergunta": "Ciclismo ou natação?", "opcoes": [ "🚴", "🏊" ] }
 ]
