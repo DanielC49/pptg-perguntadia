@@ -7,7 +7,7 @@
   { "pergunta": "Urso ou panda?", "opcoes": [ "🐻", "🐼" ] },
   { "pergunta": "Ciclismo ou natação?", "opcoes": [ "🚴", "🏊" ] },
   { "pergunta": "Filmes ou livros?", "opcoes": [ "🎥", "📖" ] },
-  { "pergunta": "Deseto 🏜️ ou montanhas ⛰️?", "opcoes": [ "🏜️", "⛰️" ] },
+  { "pergunta": "Deserto 🏜️ ou montanhas ⛰️?", "opcoes": [ "🏜️", "⛰️" ] },
   { "pergunta": "CD 💿 ou DVD 📀?", "opcoes": [ "💿", "📀" ] },
   { "pergunta": "Correio tradicional 📬 ou eletrónico 📧?", "opcoes": [ "📬", "📧" ] },
   { "pergunta": "Cinema 🎬 ou pintura 🎨?", "opcoes": [ "🎬", "🎨" ] },
