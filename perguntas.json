@@ -5,5 +5,6 @@
   { "pergunta": "Frio ou calor?", "opcoes": [ "🥶", "🥵" ] },
   { "pergunta": "Dia ou noite?", "opcoes": [ "☀️", "🌙" ] },
   { "pergunta": "Urso ou panda?", "opcoes": [ "🐻", "🐼" ] },
-  { "pergunta": "Ciclismo ou natação?", "opcoes": [ "🚴", "🏊" ] }
+  { "pergunta": "Ciclismo ou natação?", "opcoes": [ "🚴", "🏊" ] },
+  { "pergunta": "Filmes ou livros?", "opcoes": [ "🎥", "📖" ] }
 ]
