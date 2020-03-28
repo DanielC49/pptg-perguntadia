@@ -22,5 +22,5 @@
   { "pergunta": "Avião ✈️ ou comboio/trem 🚄?", "opcoes": [ "✈️", "🚄" ] },
   { "pergunta": "Estatística 📊 ou geometria 📐?", "opcoes": [ "📊", "📐" ] },
   { "pergunta": "Castelo 🏰 ou igreja ⛪?", "opcoes": [ "🏰", "⛪" ] },
-  { "pergunta": "Feliz páscoa! Coelho 🐇 ou pinto 🐤?", "opcoes": [ "🐇", "🐤" ] },
+  { "pergunta": "Feliz páscoa! Coelho 🐇 ou pinto 🐤?", "opcoes": [ "🐇", "🐤" ] }
 ]
